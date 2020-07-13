@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "2132337853",
+    "firebase_url": "https://travelmantics-1098a.firebaseio.com",
+    "project_id": "travelmantics-1098a",
+    "storage_bucket": "travelmantics-1098a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2132337853:android:14b9cc21b69317b0",
+        "android_client_info": {
+          "package_name": "com.murewa.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2132337853-okctg0eh2pec1ru26qmm1ku1rdb1p6f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murewa.travelmantics",
+            "certificate_hash": "d0a35e77f2525ce6b3701fe513ec20d7c0917083"
+          }
+        },
+        {
+          "client_id": "2132337853-83evd99tm8pviao05n0em8n5c529kvo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBedZGiGMPog9WZJGjq9giG1qFam6aCGck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2132337853-83evd99tm8pviao05n0em8n5c529kvo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2132337853:android:d3290a989885c0e666c3d4",
+        "android_client_info": {
+          "package_name": "com.murewa.travelmantics2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2132337853-gbm7t3amrc7qi3r201bep32d1hoqkntd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murewa.travelmantics2",
+            "certificate_hash": "236a83d84e076bb2e2956436713071bf3cfff60b"
+          }
+        },
+        {
+          "client_id": "2132337853-83evd99tm8pviao05n0em8n5c529kvo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBedZGiGMPog9WZJGjq9giG1qFam6aCGck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2132337853-83evd99tm8pviao05n0em8n5c529kvo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2132337853:android:07aaa42274f26de7",
+        "android_client_info": {
+          "package_name": "com.murewa.travelmanticschallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2132337853-o3892dqg4mg3j3cb3oko75ictaociten.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murewa.travelmanticschallenge",
+            "certificate_hash": "d0a35e77f2525ce6b3701fe513ec20d7c0917083"
+          }
+        },
+        {
+          "client_id": "2132337853-83evd99tm8pviao05n0em8n5c529kvo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBedZGiGMPog9WZJGjq9giG1qFam6aCGck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2132337853-83evd99tm8pviao05n0em8n5c529kvo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
